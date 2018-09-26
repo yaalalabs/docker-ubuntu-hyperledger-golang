@@ -1,4 +1,4 @@
-# docker-ubuntu-hyperledger-golang
+# ubuntu-hyperledger-golang
 
 This repository contains the build specification for [yaalalabs/ubuntu-hyperledger-golang](https://hub.docker.com/r/yaalalabs/ubuntu-hyperledger-golang) Docker image.
 
